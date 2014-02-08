@@ -1,9 +1,0 @@
-{
-    "name": "erwin32/rest",
-    "description": "Rest client fork",
-    "license": "GNU2",
-    "minimum-stability": "stable",
-    "require": {
-
-    }
-}
