@@ -1,0 +1,10 @@
+{
+    "name": "erwin32/rest",
+    "description": "Rest client fork",
+    "license": "GNU2",
+    "minimum-stability": "dev",
+    "require": { },
+    "autoload": {
+        "classmap": ["restclient.php"]
+    }
+}
