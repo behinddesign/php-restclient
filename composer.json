@@ -1,5 +1,5 @@
 {
-    "name": "erwin32/rest",
+    "name": "graham192/php-restclient",
     "description": "Rest client fork",
     "license": "GNU2",
     "minimum-stability": "dev",
